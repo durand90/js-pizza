@@ -1,0 +1,241 @@
+
+.above{
+    margin: 0;
+    width: 0;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.subContainer {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    /* background-color: yellow; */
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: orchid; */
+}
+
+.subHeader {
+    color: orange;
+    display: flex;
+    gap: 20px;
+    margin-top: 12px;
+}
+
+.headerP1 {
+    color: red;
+}
+
+.headerBtn {
+    color: blue;
+    width: 80px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.imgHeader {
+    width: 100%;
+    height: 300px;
+}
+
+.one {
+    /* background-color: green; */
+    height: 400px;
+    width: 315px
+}
+
+.homeH2 {
+    color: green;
+}
+
+.imgReg {
+    width: 210px;
+    height: 160px;
+}
+
+
+.base {
+    width: 100%;
+    /* background-color: red; */
+    margin-top: 20px;
+    display: flex;
+}
+
+
+.container2 {
+    width: 70%;
+    margin: 0 auto;
+    /* background-color: peru; */
+}
+
+
+.pizzaOrder {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: red; */
+}
+
+
+.orderBtn {
+    color: blue;
+    height: 50%;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.ingredients {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.subIngredients {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+
+.pSauceLabel {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.ingredientslabel {
+    margin-left: 0px;
+    background-color: yellow;
+}
+
+.new {
+    background-color: rgb(241, 232, 232);
+    display: flex;
+    /* flex-direction: column; */
+    /* gap: 30px; */
+}
+
+/* .new2 {
+    width: 300px;
+    background-color: lightcoral;
+} */
+
+video {
+    width: 100%;
+}
+
+.orderCheckOut {
+    margin-top: 20px;
+}
+
+.orderFooter {
+    margin-top: 30px;
+    display: flex;
+}
+
+
+.container3 {
+    margin: 0 auto;
+    width: 70%;
+    background-color: rgb(245, 237, 237);
+}
+
+.checkOut {
+    /* background-color: orange; */
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.checkOutBtn {
+    color: blue;
+    width: 80px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.sidesH3 {
+    color: grey;
+}
+
+.sides {
+    color: red;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.dippingSauce {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 40%;
+    height: 200px;
+    /* background-color: tomato; */
+}
+
+.sauceLabel {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* background-color: grey; */
+
+}
+
+.orderSummary {
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(240, 240, 230);
+    margin-bottom: 10px;
+}
+
+.checkOutH3 {
+    text-align: center;
+}
+
+.checkOutOpt {
+    display: flex;
+    justify-content: right;
+    margin-right: 50px;
+    gap: 20px
+}
+
+.imgBase {
+    width: 50%;
+    height: 250px;
+}
+
+.lastBtn {
+    width: 75px;
+    height: 40px;
+}
+
+.container4 {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.payment {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+}
+
+.subPayment {
+    width: 55%;
+    background-color: green;
+    margin-bottom: 40px;
+}
