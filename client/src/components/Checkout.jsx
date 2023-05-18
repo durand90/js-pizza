@@ -36,7 +36,7 @@ export const Checkout = () => {
     }, [id])
 
 
-    const handleClicke = (e) => {
+    const handleClick = (e) => {
         console.log('button clicked')
     }
 
